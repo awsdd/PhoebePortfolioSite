@@ -1,36 +1,38 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Phoebe Chapman
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Phoebe
+last_name: Chapman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Otago
+    url: https://www.otago.ac.nz/beck-lab/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecology, bioinformatics, genomics/genetics and microbiology/parasitology
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genomics
+  - Bioinformatics
+  - Ecology
+  - Microbiology
+  - Parasitology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Molecular Marine Parasitology
+      institution: University of Queensland
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
